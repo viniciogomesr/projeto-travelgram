@@ -15,9 +15,8 @@
     --text-color-secundary: #6C6C6C;
 
     --font: "Poppins", sans-serif;
-}
-
-body {
-    color: var(--text-color-secundary);
-    background-color: var(--background-color);
+    --text: 16px/150% var(--font);
+    --text-lg: bold 32px/125% var(--font);
+    --text-md: normal 14px/170% var(--font);
+    --text-sm: normal 12px/170% var(--font);
 }
