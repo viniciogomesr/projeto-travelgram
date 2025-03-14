@@ -1,3 +1,5 @@
+@charset "UTF-8";
+
 * {
     margin: 0;
     padding: 0;
@@ -19,4 +21,25 @@
     --text-lg: bold 32px/125% var(--font);
     --text-md: normal 14px/170% var(--font);
     --text-sm: normal 12px/170% var(--font);
+}
+
+.container {
+    padding: 0 32px;
+    margin: auto;
+    max-width: 1280px;
+    min-width: 300px;
+}
+
+.surface-color {
+    background-color: var(--surface-color);
+}
+
+a {
+    text-decoration: none;
+    color: var(--text-color-secundary);
+}
+
+a:hover {
+    text-decoration: underline;
+    color: var(--brand-color);
 }
