@@ -1,6 +1,7 @@
 main {
     padding: 32px 0;
     font: var(--text-md);
+    color: var(--text-color-secundary);
 }
 
 main .container {
