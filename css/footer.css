@@ -1,0 +1,10 @@
+footer {
+    display: flex;
+    gap: 16px;
+    padding: 24px 0;
+    font: var(--text-sm);
+}
+
+footer span:nth-child(1) {
+    margin-right: auto;
+}
