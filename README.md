@@ -20,6 +20,8 @@
 
 Site com uma ideia de perfil de viagens de uma rede social, com exposição de fotos.
 
+OBS - nesta primeira versão commitada dia 17/03/2025 não foi adicionado respondividade total ao site, pois ainda não sabia como adaptar corretamente responsividade com flexbox, porém são módulos futuros do curso e ao aprender eu aperfeiçoarei não só esse como os demais projetos.
+
 - [Acesse o projeto finalizado, online](https://viniciogomesr.github.io/projeto-travelgram/)
 
 ## 🚀 Tecnologias
